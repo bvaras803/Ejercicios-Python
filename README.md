@@ -1,1 +1,1 @@
-- Diferentes ejercicios con fines de aprendizaje realizados con Python en Pychar
+- Diferentes ejercicios con fines de aprendizaje realizados con Python en Pycharm
